@@ -3,3 +3,5 @@ Step 2: Create/order a pizza
 Step 3: Wait for pizza confirmation
 Step 4: Wait for delivery
 Step 5: Pay delivery driver
+Step 6: enjoy your pizza
+Step 7: clean up your mess
